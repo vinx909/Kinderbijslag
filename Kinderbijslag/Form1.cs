@@ -33,8 +33,6 @@ namespace Kinderbijslag
         private Button addChildButton;
         private Button calculateChildBenefitsButton;
 
-        public static double[,] PersentagGrowth => persentagGrowth;
-
         public Form1()
         {
             InitializeComponent();
